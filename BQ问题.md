@@ -14,6 +14,8 @@ How much time did you have? What approach did you take?  What did you learn from
 - R: Result：我们采用了简化的方法。将原本相互依赖的两个实体，变成了一个一对一的依赖，避免了之前的相互依赖关系而导致的corner cases不可控的情况。
 - Lesson：我学习到了，每次在接到需求的时候，需要对1 需求进行合理的评估，包括确定各种corner cases。2 对时间需要据理力争，需要和pm沟通好最后所需要的时间。
 
+
+
 Tell me about a time when you had to gather information and respond immediately to a situation. What was the outcome? Would you have done anything differently?
 
 【Work in Ambiguous Situation】
